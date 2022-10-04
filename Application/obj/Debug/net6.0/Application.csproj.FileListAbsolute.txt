@@ -1,0 +1,17 @@
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/bin/Debug/net6.0/Application.deps.json
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/bin/Debug/net6.0/Application.dll
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/bin/Debug/net6.0/Application.pdb
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/bin/Debug/net6.0/Domain.dll
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/bin/Debug/net6.0/Persistence.dll
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/bin/Debug/net6.0/Domain.pdb
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/bin/Debug/net6.0/Persistence.pdb
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.csproj.AssemblyReference.cache
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.AssemblyInfoInputs.cache
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.AssemblyInfo.cs
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.csproj.CoreCompileInputs.cache
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.csproj.CopyComplete
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.dll
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/refint/Application.dll
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/Application.pdb
+/Users/abbikissee/Desktop/School/ITDEV-162/abbi-kissee-p1/Application/obj/Debug/net6.0/ref/Application.dll
